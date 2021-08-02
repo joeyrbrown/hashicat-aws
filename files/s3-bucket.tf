@@ -3,5 +3,4 @@ module "s3-bucket" {
   version = "2.2.0"
   # insert required variables 
   bucket_prefix = "joeybrown"
-  tags = {"Department":"Enterprise IT","Billable":"Yes"}
 }
